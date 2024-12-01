@@ -1,4 +1,4 @@
-**Mango Classification Using Lightwight CNN model with Saliency Map**
+**Mango Leaf Disease Classification Using Lightwight CNN model with Saliency Map**
 
 This repository contains a deep learning pipeline to classify mango images into different categories using a custom Convolutional Neural Network (CNN). The model is trained, validated, and tested on a structured dataset of mango images.
 
